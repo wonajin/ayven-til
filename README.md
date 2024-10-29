@@ -6,8 +6,8 @@
 
 ### [10월 4째주, 2주차] : js,express
 
-24.10.29  (상세 내역 링크)
+24.10.29  ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-10-29.md))
 
 
 
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+
