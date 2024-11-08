@@ -9,6 +9,14 @@
 ### [11월 1째주, 3주차] : jss ,web
 
 - 24.11.01  Fri  jss 응용 이론        ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-01.md))
+  
 - 24.11.04  Mon  커뮤니티 구현                    ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-04.md))
+  
 - 24.11.05  Tue  웹 응용 이론                    ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-05.md))
+  
 - 24.11.06  Wen  딥다이브- 쿠키-세션or JWT 인증 인가 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-06.md))
+  
+- 24.11.07  Thu  API및 커뮤니티 벡엔드 만들기 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-07.md))
+  
+- 24.11.08  Fri  리액트
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-08.md))
