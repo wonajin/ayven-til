@@ -20,3 +20,7 @@
   
 - 24.11.08  Fri  리액트
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-08.md))
+
+- 24.11.10  Sum  REST API 이론 공부 및 작성
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-10.md))
+
