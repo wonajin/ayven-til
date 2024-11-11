@@ -2,9 +2,14 @@
 
 ## 📝오늘 내가 배운 것들(Today I Learned)
 
+
+
+
 ### [10월 4째주, 2주차] : js,express
 
 - 24.10.29  ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-10-29.md))
+
+  
 
 ### [11월 1째주, 3주차] : jss ,web
 
@@ -23,4 +28,11 @@
 
 - 24.11.10  Sum  REST API 이론 공부 및 작성
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-10.md))
+
+
+### [11월 2째주, 4주차] : 커뮤니티 벡엔드 만들기
+
+- 24.11.11  Mon  벡엔드 서버, json
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-10.md))
+
 
