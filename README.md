@@ -44,6 +44,9 @@
 - 24.11.12  Tue  리액트 이론-라우팅 , 랜더링, 스타일링, 데이터 통신
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-12.md))
 
+- 24.11.13  Wen  딥다이브- SPA와 MPA, 그리고 CSR
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-12.md))
+
 
 
 
