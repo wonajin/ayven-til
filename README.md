@@ -47,6 +47,13 @@
 - 24.11.13  Wen  딥다이브- SPA와 MPA, 그리고 CSR
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-13.md))
 
+- 24.11.14  Thu  리액트- 이론 3
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-13.md))
+
+- 24.11.15  Fri  DB- 환경셋팅, 기본문법
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-13.md))
+
+
 
 
 
