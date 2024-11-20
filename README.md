@@ -54,8 +54,10 @@
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-13.md))
 
 
+### [11월 3째주, 5주차] : 커뮤니티 라우터 컨트롤러  만들기
 
-
+- 24.11.20  Wen  딥다이브-EXPAIN, ANALYZE 쿼리
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-20.md))
 
 
 
