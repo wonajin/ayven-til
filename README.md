@@ -59,6 +59,8 @@
 - 24.11.20  Wen  딥다이브-EXPAIN, ANALYZE 쿼리
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-20.md))
 
+- 24.11.22  Fri  리액트 이론
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-22.md))
 
 
 
