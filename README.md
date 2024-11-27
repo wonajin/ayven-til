@@ -63,7 +63,10 @@
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-22.md))
 
 
+### [11월 3째주, 5주차] : 커뮤니티 다시 js부터 시작
 
+- 24.11.20  Wen  딥다이브-데이터 구조
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-27.md))
 
 
 ---------------------------------------
