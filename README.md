@@ -69,4 +69,10 @@
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2024-11-27.md))
 
 
+### [2월 1째주, 13주차] : 커뮤니티 DB연결
+
+- 25.02.04  Tue  DB 게시글,댓글 구현
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-04.md))
+
+
 ---------------------------------------
