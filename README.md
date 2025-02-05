@@ -74,5 +74,8 @@
 - 25.02.04  Tue  DB 게시글,댓글 구현
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-04.md))
 
+- 25.02.05  Wen  딥다이브-페이징과 메모리, DB 게시글 추가 구현
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-05.md))
+
 
 ---------------------------------------
