@@ -77,5 +77,19 @@
 - 25.02.05  Wen  딥다이브-페이징과 메모리, DB 게시글 추가 구현
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-05.md))
 
+- 25.02.07  Fri  CS 강의
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-07.md))
+
+
+
+
+### [2월 2째주, 14주차] : AWS실습, 리액트 스터디, 특강
+
+- 25.02.10  Mon  AWS실습, 리액트 스터디 ,자바 특강
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-10.md))
+
+
+
 
 ---------------------------------------
+
