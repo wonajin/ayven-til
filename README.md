@@ -88,8 +88,11 @@
 - 25.02.10  Mon  AWS실습, 리액트 스터디 ,자바 특강
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-10.md))
 
-- 25.02.1강
+- 25.02.11 Tue 리액트 공부
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-11.md))
+
+- 25.02.12  Wen  리액트 공부
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
 
 
 
