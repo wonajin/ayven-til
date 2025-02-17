@@ -94,8 +94,21 @@
 - 25.02.12  Wen  리액트 공부
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
 
-- 25.02.13  Wen  리액트 공부, 자바
+- 25.02.13  Thu  리액트 공부, 자바
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
+
+
+
+### [2월 3째주, 15주차] :  리액트 스터디, 3차스터디 주제선정
+
+- 25.02.17  Mon  스터디 주제선정
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-17.md))
+
+- 25.02. Tue 
+
+- 25.02.  Wen  
+
+- 25.02.  Thu  
 
 
 
