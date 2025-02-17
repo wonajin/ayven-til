@@ -94,6 +94,9 @@
 - 25.02.12  Wen  리액트 공부
 ([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
 
+- 25.02.13  Wen  리액트 공부, 자바
+([상세 내역 링크](https://github.com/wonajin/ayven-til/blob/main/2025-02-12.md))
+
 
 
 ---------------------------------------
